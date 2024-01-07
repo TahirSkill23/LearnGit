@@ -5,6 +5,7 @@ public class FirstJavaFile {
 		// TODO Auto-generated method stub
 		
 		System.out.println("First java file to commit on GitHub");
+		System.out.println("One more line added");
 
 	}
 
